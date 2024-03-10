@@ -1,5 +1,5 @@
 <script>
-  let value = 0;
+  export let value = 0;
 	let random = 0;
 
 	function handleClick() {
